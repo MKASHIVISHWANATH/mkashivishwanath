@@ -37,7 +37,6 @@
 🔹 [**Pesticide Sprayer Spider Robot**](#) – ATmega328p + Motors + Sensors  
 🔹 [**Data Analytics Mini Projects**](#) – Clustering & SQL-based queries  
 
-*(Click project titles above once you upload repos and link them!)*  
 
 ---
 
