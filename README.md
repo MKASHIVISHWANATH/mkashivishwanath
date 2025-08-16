@@ -49,8 +49,8 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR-LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:YOUR-EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-kashi-vishwanath-7307b32a8)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mkashi@karunya.edu.in)  
 
 ---
 
