@@ -1,57 +1,39 @@
-# 👋 Hi, I'm M Kashi Vishwanath  
+# 👋 Hi, I'm M Kashi Vishwanath
 
-💡 Electronics & IoT Enthusiast | Embedded Systems | Robotics | Analog Electronics  
+## About Me
+I am a passionate Electrical, Electronics, and Communications Engineering student at Karunya Institute of Technology and Sciences, specializing in Embedded Systems, IoT, Robotics, and Analog Electronics. I enjoy designing innovative projects that bridge electronics with intelligent systems.
 
----
+- 🔭 Currently working on IoT-based Robots and Quiz Circuits using the 555 Timer IC.
+- 🌱 Learning Embedded C, Arduino, ATmega328p, and IoT communication protocols.
+- ⚡ Interested in Robotics, Electronics Design, and Data Analytics.
+- 🤝 Open to collaborations on IoT, Robotics, and Embedded System projects.
 
-## 🚀 About Me  
-- 🔭 Currently working on **IoT-based Robots & Quiz Circuits (555 IC Projects)**  
-- 🌱 Learning **Embedded C, Arduino, ATmega328p, IoT protocols**  
-- ⚡ Interested in **Robotics, Electronics Design, and Data Analytics**  
-- 🤝 Looking to collaborate on **IoT, Robotics, and Embedded System Projects**  
-- 🎯 Goal: To design innovative projects bridging **electronics & intelligent systems**  
+## Tech Stack
 
----
+- **Programming Languages:** C, C++, Embedded C, Python (basic)
+- **Microcontrollers:** Arduino, ATmega328p, ESP32
+- **Electronics:** Analog Circuits, 555 Timer, Sensors, PCB Design
+- **Tools & Simulations:** Proteus, KiCad, TinkerCAD, MATLAB
 
-## 🛠️ Tech Stack  
+## Featured Projects
 
-**Programming:**  
-![C](https://img.shields.io/badge/Code-C-blue) 
-![Python](https://img.shields.io/badge/Code-Python-yellow)  
-**Electronics & IoT:**  
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-orange) 
-![ESP32](https://img.shields.io/badge/Hardware-ESP32-lightgrey) 
-![Sensors](https://img.shields.io/badge/IoT-Sensors-green)  
-**Tools & Simulation:**  
-![MATLAB](https://img.shields.io/badge/Tool-MATLAB-red) 
-![Proteus](https://img.shields.io/badge/Tool-Proteus-blue) 
-![KiCad](https://img.shields.io/badge/Tool-KiCad-lightblue) 
-![Git](https://img.shields.io/badge/Tool-Git-black)  
+| Project                          | Description                                                    | Tech Used                    | Link                                   |
+|---------------------------------|----------------------------------------------------------------|------------------------------|----------------------------------------|
+| Fastest Finger First Quiz Buzzer| A quiz system that accurately identifies the first responder  | NE555 Timer, Electronics      | [Repository](https://github.com/MKASHIVISHWANATH/Fastest-Finger-First-Circuit-using-555-IC-For-Organizing-Quizzes) |
+| IoT Smart Irrigation System      | Automated irrigation using soil moisture sensors               | Arduino, Sensors, IoT         | [Repository]()                         |
+| Pesticide Sprayer Spider Robot   | A robotic system for pesticide spraying                         | ATmega328p, Motors, Sensors   | [Repository]()                         |
+| Data Analytics Mini Projects     | Projects involving SQL queries and clustering techniques       | SQL, Python                   | [Repository]()                         |
 
----
-
-## 📂 Featured Projects  
-
-🔹 [**Fastest Finger First Quiz Buzzer (555 IC)**](#) – Circuit + working principle using NE555  
-🔹 [**IoT Smart Irrigation System**](#) – Arduino + Soil Moisture + Motor Control  
-🔹 [**Pesticide Sprayer Spider Robot**](#) – ATmega328p + Motors + Sensors  
-🔹 [**Data Analytics Mini Projects**](#) – Clustering & SQL-based queries  
-
+## Connect with Me
+- 🌐 Portfolio: [https://kashivishwanath-portfolio.vercel.app/](https://kashivishwanath-portfolio.vercel.app/)
+- 💼 LinkedIn: [in/m-kashi-vishwanath-7307b32a8](https://linkedin.com/in/m-kashi-vishwanath-7307b32a8)
+- 📧 Email: (Add your email here)
 
 ---
 
-## 📊 GitHub Stats  
-
-![Vishwanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+⭐️ Feel free to explore my repositories and collaborate on exciting projects!
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-kashi-vishwanath-7307b32a8)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mkashi@karunya.edu.in)  
-
----
-
-⭐️ From [M Kashi Vishwanath](https://github.com/YOURUSERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKASHIVISHWANATH&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MKASHIVISHWANATH&layout=compact&theme=radical)
