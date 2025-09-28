@@ -39,7 +39,7 @@ I am an aspiring engineer specializing in Embedded Systems, IoT, and Robotics, c
 
 ## Connect with Me
 
-[🌐 Portfolio](https://kashivishwanath-portfolio.vercel.app/) | [💼 LinkedIn](https://linkedin.com/in/m-kashi-vishwanath-7307b32a8) | 📧 (Add your email)
+[🌐 Portfolio](https://kashivishwanath-portfolio.vercel.app/) | [💼 LinkedIn](https://linkedin.com/in/m-kashi-vishwanath-7307b32a8) | 📧 (mkashi@karunya.edu.in)
 
 ---
 
